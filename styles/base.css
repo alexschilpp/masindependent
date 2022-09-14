@@ -1,0 +1,36 @@
+body {
+    font-family: 'Inter', serif;
+}
+
+body:before {
+    content: '';
+    background-image: url("../img/SA706127.jpg");
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 18%;
+    z-index: -1;
+}
+
+h1 {
+    font-weight: 900;
+    font-style: italic;
+    margin-bottom: 0.15rem;
+}
+
+p.lead {
+    font-size: 1rem;
+}
+
+.mas-logo-small {
+    width: 2rem;
+}
+
+.mas-logo {
+    width: 10rem;
+    margin-bottom: 10px;
+}
