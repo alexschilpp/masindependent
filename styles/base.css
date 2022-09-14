@@ -16,21 +16,10 @@ body:before {
     z-index: -1;
 }
 
-h1 {
-    font-weight: 900;
-    font-style: italic;
-    margin-bottom: 0.15rem;
-}
-
-p.lead {
-    font-size: 1rem;
-}
-
-.mas-logo-small {
+.logo-small {
     width: 2rem;
 }
 
-.mas-logo {
-    width: 10rem;
-    margin-bottom: 10px;
+img {
+    width: 80%;
 }
